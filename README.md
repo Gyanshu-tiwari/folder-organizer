@@ -17,6 +17,22 @@ git clone <your-repo-url>
 cd folder-organizer
 npm link
 ```
+## 📸 Screenshots
+
+### Dry Run Mode
+![Dry Run Output](screenshots/dry-run.png)
+
+### Error Handling
+![Error Handling](screenshots/error.png)
+
+### Success Output
+![Success Output](screenshots/success.png)
+
+### Before Command
+![Before Command](screenshots/before.png)
+
+### After Command
+![After Command](screenshots/after.png)
 
 ## ▶️ Usage
 ```bash
